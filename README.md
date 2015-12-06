@@ -2,7 +2,7 @@
 Our final project built off of project6/7. The program allows a user to propose a meeting to participants via email using the availability from their google calendars. The recipients of the email can use the link in the email to respond with their availability and the app will generate time slots where all parties are free. The meeting proposer can then select a time to set a meeting or delete their original proposal.
 
 #Test flow:
-A good flow to test all aspects of the web application:
+A good flow to test all aspects of the web application by yourself:
 	- Set up two seperate google calendars on a google account with event blocks created as desired
 	- Go to the app and enter a date range that includes dates with event scheduled
 	- Select one of the calendars to use for the proposal
