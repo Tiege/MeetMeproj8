@@ -3,14 +3,14 @@ Our final project built off of project6/7. The program allows a user to propose 
 
 #Test flow:
 A good flow to test all aspects of the web application by yourself:
-	- Set up two seperate google calendars on a google account with event blocks created as desired
-	- Go to the app and enter a date range that includes dates with event scheduled
-	- Select one of the calendars to use for the proposal
-	- send en email to yourself 
-	- open the email and follow the link to another page where you can select the participating calendar
-	- send the selection and then manual go back to the index page
-	- click 'Check Responses' and observe free time intervals displayed
-	- delete proposal to end application process
+- set up two seperate google calendars on a google account with event blocks created as desired
+- go to the app and enter a date range that includes dates with event scheduled
+- select one of the calendars to use for the proposal
+- send en email to yourself 
+- open the email and follow the link to another page where you can select the participating calendar
+- send the selection and then manual go back to the index page
+- click 'Check Responses' and observe free time intervals displayed
+- delete proposal to end application process
 
 #Notes:
  - For sending the email, if you use chrome you need to manage your mailto handlers, it should work on fire fox fine and IE seems to be stranger than chrome
