@@ -1,5 +1,5 @@
 # Meet Me Scheduler - Project 8 - cs399se
-Our final project built off of project6/7. The program allows a user to propose a meeting to participants via email using the availability from their google calendars. The recipients of the email can use the link in the email to respond with their availability and the app will generate time slots where all parties are free. The meeting proposer can then select a time to set a meeting or delete their original proposal.
+Our final project built off of project6/7. The program allows a user to propose a meeting to participants via email using the availability from their google calendars. The initial proposal consisting of the proposer's times available is saved in a mongodb and used to match identical available times from the responders. The recipients of the email can use the link in the email to respond with their availability and the app will generate time slots where all parties are free. The meeting proposer can then select a time to set a meeting or delete their original proposal from the database.
 
 #Test flow:
 A good flow to test all aspects of the web application by yourself:
