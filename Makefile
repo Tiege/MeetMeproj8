@@ -1,7 +1,3 @@
-#
-# Simple Makefile for first Flask project
-#
-
 ##
 ## Except for installation, all commands should be run with 
 ## the virtual environment active
